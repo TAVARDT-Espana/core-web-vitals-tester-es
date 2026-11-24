@@ -49,3 +49,7 @@ Para auditorias avanzadas de velocidad y respuesta:
 ## Consultoria en Optimizacion y Rendimiento Web
 
 Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Directrices de Experiencia Web UE, contacte a **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
