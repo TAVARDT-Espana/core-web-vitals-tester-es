@@ -6,8 +6,6 @@
 
 Analisis de TTFB, compresion de recursos, scripts bloqueantes y optimizacion de estabilidad visual (CLS).
 
-Desarrollado y mantenido por la division de rendimiento e ingenieria web de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Core Web Vitals
@@ -38,15 +36,6 @@ python cwv_tester.py https://empresa.es -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para auditorias avanzadas de velocidad y respuesta:
-
-* **Medidor de Core Web Vitals Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Optimizacion y Rendimiento Web
 
 Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Directrices de Experiencia Web UE, contacte a **TAVARDT**.
@@ -62,7 +51,7 @@ Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Dir
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
