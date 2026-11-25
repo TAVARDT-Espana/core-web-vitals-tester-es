@@ -2,6 +2,7 @@
 
 [![Medidor Core Web Vitals](https://img.shields.io/badge/TAVARDT-Core%20Web%20Vitals-5b3cf5.svg)](https://tools.tavardt.com/es/medidor-core-web-vitals/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Analisis de TTFB, compresion de recursos, scripts bloqueantes y optimizacion de estabilidad visual (CLS).
 
@@ -57,6 +58,11 @@ Para arquitectura de carga ultrarrapida bajo directrices de Estandares W3C y Dir
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
 
 ***
 
